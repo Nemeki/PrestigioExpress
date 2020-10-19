@@ -1,1 +1,0 @@
-El sistema logístico se encarga de recibir las  órdenes de los clientes y de entregarle las instrucciones a los camiones para el reparto de paquetes.
